@@ -125,8 +125,8 @@ if (document.getElementById("nextprev")) {
 if (document.getElementById("postlistdiv")) {
   document.getElementById("postlistdiv").innerHTML = postListHTML;
 }
-if (document.getElementById("recentpostlistdiv")) {
-  document.getElementById("recentpostlistdiv").innerHTML = recentPostListHTML;
+if (document.getElementById("arsip-blog")) {
+  document.getElementById("arsip-blog").innerHTML = recentPostListHTML;
 }
 if (document.getElementById("header")) {
   document.getElementById("header").innerHTML = headerHTML;
